@@ -2,18 +2,6 @@
 
 This repository contains the code and resources for a Loan Prediction model using ensemble learning techniques. This machine learning model is designed to predict whether a loan application should be approved or denied based on various applicant features and historical data.
 
-## Table of Contents
-
-Introduction
-Dataset
-Dependencies
-Usage
-Model Selection
-Evaluation
-Deployment
-Contributing
-License
-
 ## Introduction
 
 Loan prediction is a crucial task for banks and financial institutions to assess the risk associated with loan applications. Ensemble learning is an effective approach for improving the predictive performance of machine learning models. In this project, we explore different ensemble techniques to build a robust and accurate loan prediction model.
